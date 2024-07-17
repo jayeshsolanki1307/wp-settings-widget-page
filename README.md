@@ -1,5 +1,6 @@
 === Settings & Widget Manager ===
-Contributors: yourusername
+
+Contributors: Jayesh Solanki
 Tags: settings, widget, widget settings, frontend widget, WordPress plugin
 Requires at least: 5.0
 Tested up to: 6.2
